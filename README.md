@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Biais</h1>
-<h3 align="center">Computer Science Student @University of Birmingham</h3>
+<h3 align="center">Computer Science Student @ University of Birmingham</h3>
 
 ![](https://komarev.com/ghpvc/?username=hugobiais)
 
@@ -7,15 +7,13 @@
 - 🔭 I’m currently looking for **summer internship in the UK 🇬🇧**
 -->
 
-- 🌱 I’m currently learning **Full Stack Engineering** with the goal of **turning my ideas into reality**
+- 🌱 I’m currently learning **Full Stack Development** with the goal of **turning my ideas into reality!**
 
 - 📫 How to reach me **hugo.s.biais@gmail.com**
 
 - 🔗 Connect with me on **[LinkedIn](https://linkedin.com/in/hugobiais)**
 
----
-
-## Languages and tools:
+### Languages and tools:
 
 **Web Dev**
 
@@ -40,10 +38,10 @@
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="fima" width="40" height="40"/> </a>
 
----
-
+<!-- Maybe add later, but not now
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugobiais&show_icons=true&locale=en&layout=compact" alt="hugobiais" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=hugobiais&show_icons=true&locale=en" alt="hugobiais" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hugobiais)](https://git.io/streak-stats)
+-->
